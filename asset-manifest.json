@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9769e8dc.css",
-    "main.js": "/static/js/main.d81f58a8.js",
-    "static/media/credit_card.png": "/static/media/credit_card.png",
-    "static/media/banner_07.png": "/static/media/banner_07.png",
-    "static/media/banner_04.png": "/static/media/banner_04.png",
-    "static/media/banner_03.png": "/static/media/banner_03.png",
-    "static/media/banner_01.png": "/static/media/banner_01.png",
-    "static/media/banner_05.png": "/static/media/banner_05.png",
-    "static/media/banner_02.png": "/static/media/banner_02.png",
-    "static/media/banner_06.png": "/static/media/banner_06.png",
-    "static/media/banner_08.png": "/static/media/banner_08.png",
-    "static/media/haagen_dazs.png": "/static/media/haagen_dazs.png",
-    "static/media/activity.png": "/static/media/activity.png",
-    "index.html": "/index.html",
-    "main.9769e8dc.css.map": "/static/css/main.9769e8dc.css.map",
-    "main.d81f58a8.js.map": "/static/js/main.d81f58a8.js.map"
+    "main.css": "/eeee/static/css/main.9769e8dc.css",
+    "main.js": "/eeee/static/js/main.8116bb98.js",
+    "static/media/credit_card.png": "/eeee/static/media/credit_card.png",
+    "static/media/banner_07.png": "/eeee/static/media/banner_07.png",
+    "static/media/banner_04.png": "/eeee/static/media/banner_04.png",
+    "static/media/banner_03.png": "/eeee/static/media/banner_03.png",
+    "static/media/banner_01.png": "/eeee/static/media/banner_01.png",
+    "static/media/banner_05.png": "/eeee/static/media/banner_05.png",
+    "static/media/banner_02.png": "/eeee/static/media/banner_02.png",
+    "static/media/banner_06.png": "/eeee/static/media/banner_06.png",
+    "static/media/banner_08.png": "/eeee/static/media/banner_08.png",
+    "static/media/haagen_dazs.png": "/eeee/static/media/haagen_dazs.png",
+    "static/media/activity.png": "/eeee/static/media/activity.png",
+    "index.html": "/eeee/index.html",
+    "main.9769e8dc.css.map": "/eeee/static/css/main.9769e8dc.css.map",
+    "main.8116bb98.js.map": "/eeee/static/js/main.8116bb98.js.map"
   },
   "entrypoints": [
     "static/css/main.9769e8dc.css",
-    "static/js/main.d81f58a8.js"
+    "static/js/main.8116bb98.js"
   ]
 }
